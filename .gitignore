@@ -1,0 +1,5 @@
+# 只同步记忆，不同步会无限增长的运行日志
+debug.jsonl
+activity.jsonl
+free-time/
+.DS_Store
